@@ -1,0 +1,5 @@
+Dia: {"dia":1}, Quantidade de Remedios: {"remedios_registrados":1}
+Dia: {"dia":1}, Quantidade de Remedios: {"remedios_registrados":2}
+Dia: {"dia":1}, Quantidade de Remedios: {"remedios_registrados":3}
+Dia: {"dia":2}, Quantidade de Remedios: {"remedios_registrados":0}
+Dia: {"dia":3}, Quantidade de Remedios: {"remedios_registrados":0}
